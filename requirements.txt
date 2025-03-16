@@ -1,0 +1,4 @@
+aiohttp>=3.8.4
+websockets>=10.4
+cryptography>=38.0.0
+python-dotenv>=0.21.0
